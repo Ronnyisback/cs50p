@@ -1,2 +1,2 @@
 # cs50p
-python beginnings
+python shuru hua
